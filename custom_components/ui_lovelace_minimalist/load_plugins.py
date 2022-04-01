@@ -32,7 +32,7 @@ def load_plugins(hass: HomeAssistant, ulm: UlmBase):
         "lovelace-auto-entities",
         "mini-graph-card",
         "mini-media-player",
-        "my-cards",
+        "my-cards-slider-card",
         "simple-weather-card",
     ]
     for p in depenceny_resource_paths:
